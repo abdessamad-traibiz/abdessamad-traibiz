@@ -11,13 +11,9 @@
 
 - 👨‍💻 All of my projects are available at [https://traibizabdessamad.me](https://traibizabdessamad.me)
 
-- 📝 I regularly write articles on [https://traibizabdessamad.me](https://traibizabdessamad.me)
-
 - 🌱 I’m currently learning **a degree in software engineering at Moroccan School Of Engineering in Casablanca.**
 
 - 📫 How to reach me **abdessamad.traibiz@gmail.com**
-
-- 📄 Know about my experiences [https://traibizabdessamad.me](https://traibizabdessamad.me)
 
 - ✍️ In my spare time **I am very interested in competitive programming and problem solving.**
 
