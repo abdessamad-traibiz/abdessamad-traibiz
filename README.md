@@ -9,7 +9,7 @@
 
 - 💡 I enjoy learning about **new technologies and creating software solutions and quick hacks.**
 
-- 👨‍💻 All of my projects are available at [https://traibizabdessamad.me](https://traibizabdessamad.me)
+- 👨‍💻 All of my projects are available at [https://traibizabdessamad.tech](https://traibizabdessamad.tech)
 
 - 🌱 I’m currently learning **a degree in software engineering at Moroccan School Of Engineering in Casablanca.**
 
